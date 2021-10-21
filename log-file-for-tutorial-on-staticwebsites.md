@@ -14,7 +14,7 @@ _build a static website_
 
 _This will be useful when I want to publish my work online_
 
-![link to my site]([http://jonahe5.github.io/](http://jonahe5.github.io/))
+![link to my site](https://jonahe5.github.io/)
 
 ## what I did
 
