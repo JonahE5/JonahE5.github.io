@@ -1,6 +1,6 @@
 Static Site
 
-## Jonah’s Static Site
+## Jonah’s First Static Site
 
 This is my site on gh-pages.
 
